@@ -1,8 +1,9 @@
-# UnityTowerDefenseTutorial
-Tutorial TowerDefense en 3d con Unity3D en español
-*EPISODIO 1: CREACIÓN NIVEL
-*EPISODIO 2: MOVIMIENTO ENEMIGO
-*EPISODIO 3: ANIMATOR ( ANIMACIONES ENEMIGO )
+# Unity Tower Defense Tutorial
+Tutorial TowerDefense en 3d con Unity3D en español:
+
+#EPISODIO 1: CREACIÓN NIVEL
+#EPISODIO 2: MOVIMIENTO ENEMIGO
+#EPISODIO 3: ANIMATOR ( ANIMACIONES ENEMIGO )
 *
 ¿Porque solicito ayuda?
 Deseo que el desarrollo de videojuegos se vuelva algo a tiempo completo en mi vida, actualmente hago esto solamente en mis tiempos libres, con mucha dedicación.. pero sigo necesitando otra fuente de ingreso para básicamente poder vivir. Mi deseo es algún momento tener alguna base como para por fin poder tomar la decisión de dedicarme de lleno a este maravilloso mundo del desarrollo de videojuegos.
